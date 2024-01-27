@@ -1,0 +1,137 @@
+#index{
+    background-color: rgb(94, 206, 159);
+}
+
+p[draggable="true"]{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#judul{
+    color: black;
+    background-color: white;
+    border: 5px solid black;
+    padding: 10px;
+    width: 220px;
+}
+
+#home{
+    background-color: peachpuff;
+}
+
+#tes_span{
+    color: purple;
+}
+
+.font{
+    color: red;
+    font-size: 20px;
+    font-family: 'Black Ops One', cursive;
+}
+
+.btn{
+    background-color: transparent;
+    border: solid 5px;
+    padding: 8px 20px; 
+    border-radius: 5px;
+    transition: 0.4s;
+    cursor: pointer;
+    font-size: 25px; 
+    font-family: 'Black Ops One', cursive;
+    color: white;
+}
+
+.btn:hover{
+    background-color: black;
+}
+
+.foto{
+    border: outset black 4px;
+    border-width: 20px 5px 20px 5px;
+    margin: 35px;
+}
+
+#satu{
+    border: solid black 5px;
+    padding: 10px;
+    margin-left: 35px;
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+#dua{
+    border: solid black;
+    border-width: 20px 5px;
+    margin-left: 265px;
+    margin-bottom: 35px;
+    background-color: green;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+#meme{
+    background-color: black;
+    width: 500px;
+    height: 300px;
+    margin-left: 35px;
+    padding-top: 9px;
+}
+
+#meme2{
+    background-color: black;
+    width: 500px;
+    height: 300px;
+    margin-left: 535px;
+    padding-top: 9px;
+}
+
+#belajarJS{
+    font-size: 30px;
+    font-family: 'Black Ops One', cursive;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    border: solid white;
+    border-radius: 10px;
+    background-color: yellowgreen;
+    color: white;
+    margin-bottom: 20px;
+    width: 700px;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+#belajarJS:hover{
+    background-color: red;
+}
+
+.keterangan{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-weight: bold; 
+    text-align: center; 
+    margin-top: 20px; 
+    border: solid white 2px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 560px; 
+    font-size: 20px; 
+    background-color: yellowgreen; 
+    color: white; 
+    margin-bottom: 10px;
+}
+
+.js_0{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.js_1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
